@@ -14,11 +14,11 @@ React (Vite) · Node.js · Express · MongoDB (Mongoose) · JWT · bcrypt
 
 ## Run Locally
 <b>Backend</b><br>
-cd backend
-npm install
+cd backend<br>
+npm install<br>
 node server.js
 
 <b>Frontend</b><br>
-cd frontend
-npm install
+cd frontend<br>
+npm install<br>
 npm run dev
