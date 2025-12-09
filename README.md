@@ -13,12 +13,12 @@ SmartKitchen is a small MERN‑style web app that helps users turn leftover ingr
 React (Vite) · Node.js · Express · MongoDB (Mongoose) · JWT · bcrypt
 
 ## Run Locally
-<b>Backend</b>
+<b>Backend</b><br>
 cd backend
 npm install
 node server.js
 
-Frontend
+<b>Frontend</b><br>
 cd frontend
 npm install
 npm run dev
